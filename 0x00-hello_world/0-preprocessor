@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Check if the C file name is provided
+if [ -z "$CFILE" ]; then
+    echo "Error: CFILE variable is not set."
+    exit 1
+fi
+
+# Define the output file name
+OUTPUT_FILE="c"
+
+# Run the C file through the preprocessor and save the result
+gcc -E "$CFILE" -o "$OUTPUT_FILE"
+
+# Check if the preprocessing was successful
+if [ $? -eq 0 ]; then
+    echo "Preprocessing successful. Result saved in $OUTPUT_FILE"
+else
+    echo "Preprocessing failed."
+fi
