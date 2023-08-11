@@ -1,11 +1,14 @@
 #include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- *main - Prints if number is positive, zero or negative
- *
- * Return: Always (Success)
- */
+/* more headers goes there */
+/**
+   * main - Entry point
+    *
+     * Return: Always 0 (Success)
+      */
+/* betty style doc for function main goes there */
+
 int main(void)
 {
 int n;
