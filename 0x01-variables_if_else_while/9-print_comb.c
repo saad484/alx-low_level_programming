@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
+
 /**
-  * main - prints all possible combinations of a single-digit numbers,
-   * Separated by a comma and followed by a space
-    * Return 0 (Success)    
+   * main - prints all possible combinations of single-digit numbers
+    * Return: Always 0 (Success)
      */
 int main(void)
 {
