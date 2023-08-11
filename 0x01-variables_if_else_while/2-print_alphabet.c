@@ -2,15 +2,16 @@
 #include<stdlib.h>
 #include<time.h>
 /**
-   *
-   * main - Print the alaphabet in lowercase
-   * followed by a new line 
-   * Return: Always 0 (Success)
-   */
+*
+* main - Print the alaphabet in lowercase
+* followed by a new line 
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 	char ch;
-	for (ch = 'a'; ch<='z'; ch++)
+
+	for (ch = 'a'; ch <='z'; ch++)
 	{
 		putchar(ch);
 	}
