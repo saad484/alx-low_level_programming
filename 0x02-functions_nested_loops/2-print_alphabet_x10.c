@@ -1,8 +1,8 @@
 #include"main.h"
 /**
- * prints the allphabtes x10 times
+ * print_alphabet_x10 - the allphabtes x10 times
  *
- * return void
+ * Return: void
  */
 void print_alphabet_x10(void)
 {
