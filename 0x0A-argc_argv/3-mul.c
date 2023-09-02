@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* main - return the name of the program
+* main - return the mult of two numbers
 * @argc: argc
 * @argv: argv
 * Return: 0 (Success)

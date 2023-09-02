@@ -1,10 +1,10 @@
 #include <stdio.h>
-/**
-* main - return the name of the program
-* @argc: argc
-* @argv: argv
-* Return: 0 (Success)
-*/
+    /**
+    * main - return the name of the program
+    * @argc: argc
+    * @argv: argv
+    * Return: 0 (Success)
+    */
 int main(int argc, char *argv[])
 {
 if (argc >= 1)
