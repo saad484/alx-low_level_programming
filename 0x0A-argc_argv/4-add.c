@@ -10,7 +10,7 @@ int is_positive_intger_isdigit(const char *str)
 {
 while (*str)
 {
-if (*str < '0' && *str > '9')
+if (*str < '0' || *str > '9')
 return (0);
 str++;
 }
