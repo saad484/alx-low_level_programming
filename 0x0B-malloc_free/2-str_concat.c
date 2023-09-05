@@ -44,9 +44,9 @@ concatenated[i] = s1[i];
 
 
 for (j = 0; j < len2; j++)
-concatenated[j] = s2[j];
+concatenated[i + j] = s2[j];
 
-concatenated[i] = '\0';
+concatenated[i + j] = '\0';
 
 return (concatenated);
 
