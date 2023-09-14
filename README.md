@@ -98,7 +98,7 @@ The linker is an important tool in compilation that performs two tasks: resoluti
         <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-aiddi/" />
     </a>
     <span> * </span>
-    <a href="https://twitter.com/suprivada">
+    <a href="https://twitter.com/saadaiddi">
         <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/aiddi_saad/&color=1DA1F2" />
     </a>
 ---
