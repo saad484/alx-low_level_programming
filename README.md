@@ -9,8 +9,6 @@
 
 >Learning C right now, been wanting to get on this. It's going to be FUN !!.
 
->If you need any **help**. Please do not hesitate to get in touch with me in our <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>.
-
 
 ----
 
