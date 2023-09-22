@@ -1,6 +1,6 @@
-<b align="center">
+<p align="center">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRni9oO_Bxx1IsLZS_GAyJajntCkbs1fWLs7g&usqp=CAU" alt="">
-</b>
+</p>
 
 <h1 align="center">0x12. C - Singly linked lists</h1>
 
