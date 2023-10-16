@@ -1,5 +1,5 @@
 
-<p align="center">  
+<p align="center">
 <img src ="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png">
 </p>
 
@@ -41,6 +41,7 @@
 - [0x10](./0x10-variadic_functions/) : Variadic functions.
 - [0x12](./0x12-singly_linked_lists/) : Singly linked lists.
 - [0x13](./0x13-more_singly_linked_lists/) : More Singly Linked lists.
+- [0x14](./0x14-bit_manipulation/) : Bit Manupaltion.
 ----
 
 ## C Program Compilation
@@ -54,14 +55,14 @@ The compilation process has four different steps:
 2. The compiling stage
 3. The assembling stage
 4. The linking stage
-    
+
 ### Step 1: Preprocessing `-E`
 The preprocessor reads the source code and performs various transformations to it:
 - Expanding macros (replacing all of the macros with their values)
 - Handling include files (replaces the #include macro with the content of the header file specified in <>)
 - Removing comments
 - The results in a new file called a translation unit stored in a file with `.i` extension (intermediate)
-    
+
 ### Step 2: Compiling `-S`
 The build phase provides us with assembly code that is unique to the target architecture.
 
