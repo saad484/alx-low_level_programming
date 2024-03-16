@@ -35,7 +35,7 @@ typedef struct skiplist_s
 	size_t index;
 	struct skiplist_s *next;
 	struct skiplist_s *express;
-} skiplist_s;
+}skiplist_t;
 
 /* prototypes of all your functions */
 int linear_search(int *array, size_t size, int value);
